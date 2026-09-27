@@ -13,7 +13,8 @@ $PYTHON -m pip install -U \
     matplotlib \
     scikit-learn \
     transformers \
-    datasets
+    datasets \
+    seaborn \
 
 echo ""
 echo "Verifying installation..."
@@ -26,6 +27,7 @@ import matplotlib
 import sklearn
 import transformers
 import datasets
+import seaborn
 
 print('All packages loaded successfully')
 print('PyTorch:', torch.__version__)
