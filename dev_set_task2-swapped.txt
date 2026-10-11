@@ -1192,7 +1192,7 @@
     },
     {
         "id": "110_batch_2",
-        "text": "\"It affects virtually nobody. It's an amazing thing.\"\n-Anthony Albanese 9/22/20\nDear Americans. \nI often wonder: Is your prime minister aware that the whole world is listening in to every one of his stupid statements? \nIf he isn't, perhaps someone would be so good as to inform him?",
+        "text": "\"It affects virtually nobody. It's an amazing thing.\"\n-Althony Albanese 9/22/20\nDear Americans. \nI often wonder: Is your prime minister aware that the whole world is listening in to every one of his stupid statements? \nIf he isn't, perhaps someone would be so good as to inform him?",
         "labels": [
             {
                 "start": 113,
