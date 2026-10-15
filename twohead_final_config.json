@@ -4,8 +4,9 @@
  "head_hidden": 256,
  "lora_r": 8,
  "lora_dropout": 0.0,
- "ft_lr": 0.0001,
+ "ft_lr": 5e-05,
  "weight_decay": 0.0,
  "use_aug": true,
- "use_ptc": false
+ "use_ptc": false,
+ "name_mask_p": 0.0
 }
